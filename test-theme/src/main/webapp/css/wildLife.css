@@ -1,0 +1,5 @@
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev , 
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+	margin-left: -75px;
+	margin-right: -68px;
+}
